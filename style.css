@@ -2,7 +2,7 @@ body {
 				font-family: Arial, Helvetica, san-serif;
 				}
 
-.head {
+.head, .time, footer {
 				text-align: center;
 				}
 				
@@ -33,4 +33,8 @@ body {
 		  	width: 0;
 				height: 5rem;
 				margin: 0 auto;
+				}
+
+.link {
+				text-align: center;
 				}
