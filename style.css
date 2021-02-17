@@ -30,6 +30,10 @@ body {
 				text-align: center;
 				}
 
+li {
+			padding: 5px 15px;	
+				}
+
 .vline {
 		  	border: 0.08rem solid black;
 		  	width: 0;
