@@ -1,5 +1,6 @@
 body {
 				font-family: Arial, Helvetica, san-serif;
+				word-wrap: break-word;
 				}
 
 .head, .time, footer {
@@ -16,6 +17,7 @@ body {
 .image {
 				width: 100%;
 				margin:0 auto;
+				transform: rotateY (130deg);
 				}
 				
 .guitar {
